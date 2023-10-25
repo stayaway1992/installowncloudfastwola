@@ -56,8 +56,3 @@ sudo -u www-data php occ maintenance:install \
    --database-pass "1234" \
    --admin-user "root" \
    --admin-pass "1234"
-
-
-Access your server: http://192.168.119.132
-Owncloud script.txt
-Affichage de Owncloud script.txt
