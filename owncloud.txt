@@ -1,6 +1,6 @@
 #!/bin/bash    
 
-apt-get update  # To get the latest package lists
+apt-get update
 apt install apache2 mariadb-server -y
 apt install php7.4 libapache2-mod-php7.4 php7.4-{mysql,intl,curl,json,gd,xml,mbstring,zip} -y
 apt install curl gnupg2 -y
